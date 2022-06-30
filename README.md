@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Hi! I'm Guillaume <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hi! I'm Guillaume 👋
 </p>
 
 ### About me 👈
@@ -13,7 +13,7 @@ Hi! I'm Guillaume <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gip
 - 🌱 Currently learning about 3D modeling & physics simulation
 - 😄 What I actually do on my spare time 📷 🚵‍♂️ 
 - 👀 What I wish I could do more often 🏄 ⛷️
-- 📫 How to reach me: @guphilippee
+- 📫 How to reach me: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/guphilippee.svg?style=social&label=Follow%20%40guphilippee)](https://twitter.com/guphilippee)
 
 ### Tech stack 💻
 
