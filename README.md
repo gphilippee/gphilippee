@@ -8,9 +8,9 @@ Hi! I'm Guillaume 👋
 
 ### About me 👈
 
-- 👨‍🦱 I'm an engineering student at ISEP
-- :heart: I'm passionate about open source, machine learning
-- 🌱 Currently learning about 3D modeling & physics simulation
+- 👨‍🦱 I'm an engineering student at Institut Polytechnique de Paris
+- :heart: I'm passionate about open source and machine learning
+- 🌱 Currently learning about convex optimization, deep learning and Markov chain
 - 😄 What I actually do on my spare time 📷 🚵‍♂️ 
 - 👀 What I wish I could do more often 🏄 ⛷️
 - 📫 How to reach me: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/guphilippee.svg?style=social&label=Follow%20%40guphilippee)](https://twitter.com/guphilippee)
@@ -36,19 +36,3 @@ Hi! I'm Guillaume 👋
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
 - Coming soon: ![JAX](https://img.shields.io/badge/-JAX-A8A4A3?style=flat-square&logo=JAX&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white)
-
-
-<!--
-**gphilippee/gphilippee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
