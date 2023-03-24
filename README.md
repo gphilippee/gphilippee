@@ -8,7 +8,7 @@ Hi! I'm Guillaume 👋
 
 ### About me 👈
 
-- 👨‍🦱 I'm an data scienstist student at Institut Polytechnique de Paris and graduated in engineering at ISEP
+- 👨‍🦱 I'm an data scientist student at Institut Polytechnique de Paris and graduated in engineering at ISEP
 - :heart: I'm passionate about open source and machine learning
 - 🌱 Currently learning about convex optimization, deep learning and Markov chain
 - 😄 What I actually do on my spare time 📷 🚵‍♂️ 
