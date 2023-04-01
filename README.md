@@ -8,10 +8,10 @@ Hi! I'm Guillaume 👋
 
 ### About me 👈
 
-- 👨‍🦱 I'm an data scientist student at Institut Polytechnique de Paris and graduated in engineering at ISEP
+- 👨‍🦱 I'm a data scientist student at Institut Polytechnique de Paris and graduated in engineering at ISEP
 - :heart: I'm passionate about open source and machine learning
-- 🌱 Currently learning about convex optimization, deep learning and MCMC
-- 😄 What I actually do on my spare time 📷 🚵‍♂️ 
+- 🌱 Currently learning about convex optimization, deep learning, and MCMC
+- 😄 What I do in my spare time 📷 🚵‍♂️
 - 👀 What I wish I could do more often 🏄 ⛷️
 - 📫 How to reach me: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/guphilippee.svg?style=social&label=Follow%20%40guphilippee)](https://twitter.com/guphilippee)
 
